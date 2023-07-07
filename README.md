@@ -6,10 +6,12 @@ Hangman Game is a classic word-guessing game built using the Flutter framework. 
 ## Features
 
 - User-friendly interface.
-- Randomly generates a word for the player to guess.
+- Randomly Generates a word for the player to guess.
 - Displays the hangman visual as the player makes incorrect guesses.
 - Tracks the player's progress and displays the correct guesses.
 - Provides feedback on the player's success or failure.
+- Its up to only level 1.
+- More Levels coming soon
 
 ## Requirements
 
